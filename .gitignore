@@ -1,0 +1,78 @@
+# R specific files
+.Rproj.user/
+.Rhistory
+.RData
+.Ruserdata
+*.Rproj
+
+# R session data
+.rsession*
+
+# Temporary files
+*~
+*.tmp
+*.temp
+
+# Log files
+*.log
+
+# Output files
+*.pdf
+*.png
+*.jpg
+*.jpeg
+*.gif
+*.html
+*.docx
+*.xlsx
+
+# OS specific files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Temporary directories
+tmp/
+temp/
+cache/
+
+# User-generated content (but keep examples)
+/exercises/my_*
+/projects/my_*
+/datasets/user_*
+
+# Package files (if creating R packages later)
+*.tar.gz
+*.tgz
+
+# Data files that might be generated during lessons
+students.csv
+students.rds
+my_data.*
+test_data.*
+practice_*
+
+# Backup files
+*.bak
+*.backup
+
+# Node modules (if adding web components)
+node_modules/
+
+# Python cache (if adding Python integration)
+__pycache__/
+*.pyc
+
+# Jupyter notebooks checkpoints
+.ipynb_checkpoints/
