@@ -1,10 +1,10 @@
-# Lesson 04: Statistical Terminology
 # Урок 04: Статистична термінологія
+# Lesson 04: Statistical Terminology
 
-# Learning objectives / Цілі навчання:
-# - Learn statistical terms in English / Вивчити статистичні терміни англійською  
-# - Calculate basic statistics / Обчислювати базову статистику
-# - Practice mathematical vocabulary / Практикувати математичний словник
+# Цілі навчання / Learning objectives:
+# - Вивчити статистичні терміни англійською / Learn statistical terms in English
+# - Обчислювати базову статистику / Calculate basic statistics
+# - Практикувати математичний словник / Practice mathematical vocabulary
 
 # ======= VOCABULARY / СЛОВНИК =======
 # mean - середнє значення

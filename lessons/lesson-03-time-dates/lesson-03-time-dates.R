@@ -1,10 +1,10 @@
-# Lesson 03: Time and Date Expressions
 # Урок 03: Вирази часу та дати
+# Lesson 03: Time and Date Expressions
 
-# Learning objectives / Цілі навчання:
-# - Learn time vocabulary in English / Вивчити словник часу англійською
-# - Work with dates in R / Працювати з датами в R
-# - Practice temporal expressions / Практикувати часові вирази
+# Цілі навчання / Learning objectives:
+# - Вивчити словник часу англійською / Learn time vocabulary in English
+# - Працювати з датами в R / Work with dates in R
+# - Практикувати часові вирази / Practice temporal expressions
 
 # ======= VOCABULARY / СЛОВНИК =======
 # date - дата

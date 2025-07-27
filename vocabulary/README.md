@@ -1,12 +1,12 @@
-# Vocabulary / Словник
+# Словник / Vocabulary
 
-This folder contains organized vocabulary lists and terminology databases for English programming and data science terms.
+Ця папка містить організовані списки словника та бази термінології для англійського програмування та науки про дані.
 
-*Ця папка містить організовані списки словника та бази термінології для англійського програмування та науки про дані.*
+*This folder contains organized vocabulary lists and terminology databases for English programming and data science terms.*
 
-## 📝 Vocabulary Categories / Категорії словника
+## 📝 Категорії словника / Vocabulary Categories
 
-### Core Programming Terms / Основні терміни програмування
+### Основні терміни програмування / Core Programming Terms
 Essential vocabulary for R programming:
 - Variable types / Типи змінних
 - Function names / Назви функцій  

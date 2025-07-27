@@ -1,12 +1,12 @@
-# Exercises / Вправи
+# Вправи / Exercises
 
-This folder contains additional practice exercises that reinforce the concepts learned in the main lessons.
+Ця папка містить додаткові практичні вправи, які закріплюють концепції, вивчені в основних уроках.
 
-*Ця папка містить додаткові практичні вправи, які закріплюють концепції, вивчені в основних уроках.*
+*This folder contains additional practice exercises that reinforce the concepts learned in the main lessons.*
 
-## Exercise Types / Типи вправ
+## Типи вправ / Exercise Types
 
-### 📝 Vocabulary Drills / Словникові вправи
+### 📝 Словникові вправи / Vocabulary Drills
 Practice English technical terminology with interactive exercises.
 *Практикуйте англійську технічну термінологію з інтерактивними вправами.*
 

@@ -1,10 +1,10 @@
-# Lesson 05: Data Import and File Operations
 # Урок 05: Імпорт даних та файлові операції
+# Lesson 05: Data Import and File Operations
 
-# Learning objectives / Цілі навчання:
-# - Learn file operation vocabulary in English / Вивчити словник файлових операцій англійською
-# - Import and export data / Імпортувати та експортувати дані
-# - Practice file system terminology / Практикувати термінологію файлової системи
+# Цілі навчання / Learning objectives:
+# - Вивчити словник файлових операцій англійською / Learn file operation vocabulary in English
+# - Імпортувати та експортувати дані / Import and export data
+# - Практикувати термінологію файлової системи / Practice file system terminology
 
 # ======= VOCABULARY / СЛОВНИК =======
 # file - файл
