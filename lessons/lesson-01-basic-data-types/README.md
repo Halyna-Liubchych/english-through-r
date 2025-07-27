@@ -1,13 +1,13 @@
-# Lesson 01: Basic Data Types and English Numbers
-*Урок 01: Основні типи даних та англійські числа*
+# Урок 01: Основні типи даних та англійські числа
+*Lesson 01: Basic Data Types and English Numbers*
 
-## Learning Objectives / Цілі навчання
+## Цілі навчання / Learning Objectives
 
-- Learn R data types in English / Вивчити типи даних R англійською
-- Practice number vocabulary / Практикувати словник чисел  
-- Understand variable assignment / Розуміти присвоєння змінних
+- Вивчити типи даних R англійською / Learn R data types in English
+- Практикувати словник чисел / Practice number vocabulary  
+- Розуміти присвоєння змінних / Understand variable assignment
 
-## Key Vocabulary / Ключовий словник
+## Ключовий словник / Key Vocabulary
 
 | English | Ukrainian | Example |
 |---------|-----------|---------|
@@ -18,7 +18,7 @@
 | variable | змінна | `my_age` |
 | assignment | присвоєння | `<-` |
 
-## English Numbers Practice / Практика англійських чисел
+## Практика англійських чисел / English Numbers Practice
 
 - 25 = twenty-five
 - 170.5 = one hundred seventy point five
@@ -26,19 +26,19 @@
 - 2nd = second
 - 3rd = third
 
-## Files in this lesson / Файли в цьому уроці
+## Файли в цьому уроці / Files in this lesson
 
-- `lesson-01-basic-data-types.R` - Main lesson code / Основний код уроку
-- `README.md` - This lesson guide / Цей посібник уроку
+- `lesson-01-basic-data-types.R` - Основний код уроку / Main lesson code
+- `README.md` - Цей посібник уроку / This lesson guide
 
-## Instructions / Інструкції
+## Інструкції / Instructions
 
-1. Open the R file / Відкрийте R файл
-2. Read through the code comments / Прочитайте коментарі коду
-3. Run the code line by line / Виконайте код рядок за рядком
-4. Complete the TODO exercises / Виконайте завдання TODO
-5. Practice saying the English terms aloud / Практикуйте вимову англійських термінів вголос
+1. Відкрийте R файл / Open the R file
+2. Прочитайте коментарі коду / Read through the code comments
+3. Виконайте код рядок за рядком / Run the code line by line
+4. Виконайте завдання TODO / Complete the TODO exercises
+5. Практикуйте вимову англійських термінів вголос / Practice saying the English terms aloud
 
-## Next Lesson / Наступний урок
+## Наступний урок / Next Lesson
 
-Continue to Lesson 02: Colors and Visualization Basics
+Продовжіть з Уроку 02: Кольори та основи візуалізації

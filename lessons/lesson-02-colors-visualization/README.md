@@ -1,13 +1,13 @@
-# Lesson 02: Colors and Visualization Basics
-*Урок 02: Кольори та основи візуалізації*
+# Урок 02: Кольори та основи візуалізації
+*Lesson 02: Colors and Visualization Basics*
 
-## Learning Objectives / Цілі навчання
+## Цілі навчання / Learning Objectives
 
-- Learn color names in English / Вивчити назви кольорів англійською
-- Create basic plots / Створювати основні графіки
-- Practice visualization vocabulary / Практикувати словник візуалізації
+- Вивчити назви кольорів англійською / Learn color names in English
+- Створювати основні графіки / Create basic plots
+- Практикувати словник візуалізації / Practice visualization vocabulary
 
-## Key Vocabulary / Ключовий словник
+## Ключовий словник / Key Vocabulary
 
 | English | Ukrainian | Pronunciation |
 |---------|-----------|---------------|
@@ -21,34 +21,34 @@
 | plot | графік, діаграма | [plɒt] |
 | visualization | візуалізація | [ˌvɪʒuəlaɪˈzeɪʃən] |
 
-## R Functions Used / Використовувані функції R
+## Використовувані функції R / R Functions Used
 
-- `barplot()` - creates bar charts / створює стовпчасті діаграми
-- `plot()` - creates scatter plots / створює точкові діаграми
-- `c()` - combines values into vector / об'єднує значення у вектор
-- `col` parameter - sets colors / встановлює кольори
+- `barplot()` - створює стовпчасті діаграми / creates bar charts
+- `plot()` - створює точкові діаграми / creates scatter plots
+- `c()` - об'єднує значення у вектор / combines values into vector
+- `col` parameter - встановлює кольори / sets colors
 
-## Files in this lesson / Файли в цьому уроці
+## Файли в цьому уроці / Files in this lesson
 
-- `lesson-02-colors-visualization.R` - Main lesson code / Основний код уроку
-- `colors-sizes.R` - Additional color exercises / Додаткові вправи з кольорами
-- `README.md` - This lesson guide / Цей посібник уроку
+- `lesson-02-colors-visualization.R` - Основний код уроку / Main lesson code
+- `colors-sizes.R` - Додаткові вправи з кольорами / Additional color exercises
+- `README.md` - Цей посібник уроку / This lesson guide
 
-## Instructions / Інструкції
+## Інструкції / Instructions
 
-1. Open the R file / Відкрийте R файл
-2. Run the code to see colorful plots / Виконайте код, щоб побачити кольорові графіки
-3. Practice pronouncing color names / Практикуйте вимову назв кольорів
-4. Complete the TODO exercises / Виконайте завдання TODO
-5. Experiment with different colors / Експериментуйте з різними кольорами
+1. Відкрийте R файл / Open the R file
+2. Виконайте код, щоб побачити кольорові графіки / Run the code to see colorful plots
+3. Практикуйте вимову назв кольорів / Practice pronouncing color names
+4. Виконайте завдання TODO / Complete the TODO exercises
+5. Експериментуйте з різними кольорами / Experiment with different colors
 
-## Color Combinations / Комбінації кольорів
+## Комбінації кольорів / Color Combinations
 
-Try these English phrases:
+Спробуйте ці англійські фрази:
 - "bright red" - яскраво-червоний
 - "dark blue" - темно-синій
 - "light green" - світло-зелений
 
-## Next Lesson / Наступний урок
+## Наступний урок / Next Lesson
 
-Continue to Lesson 03: Time and Date Expressions
+Продовжіть з Уроку 03: Час та вирази дати

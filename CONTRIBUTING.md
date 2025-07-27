@@ -1,23 +1,23 @@
-# Contributing to English Through R
-*Внесок у проєкт "Англійська через R"*
+# Внесок у проєкт "Англійська через R"
+*Contributing to English Through R*
 
-Thank you for your interest in contributing to this educational project! We welcome contributions that help improve the learning experience for students combining English language learning with R programming.
+Дякуємо за ваш інтерес до внесення внеску в цей освітній проєкт! Ми вітаємо внески, які допомагають покращити навчальний досвід для студентів, що поєднують вивчення англійської мови з програмуванням R.
 
-*Дякуємо за ваш інтерес до внесення внеску в цей освітній проєкт! Ми вітаємо внески, які допомагають покращити навчальний досвід для студентів, що поєднують вивчення англійської мови з програмуванням R.*
+*Thank you for your interest in contributing to this educational project! We welcome contributions that help improve the learning experience for students combining English language learning with R programming.*
 
-## 🎯 Types of Contributions / Типи внесків
+## 🎯 Типи внесків / Types of Contributions
 
-### 📚 Educational Content / Освітній контент
-- **New lessons** - additional topics and exercises / нові уроки - додаткові теми та вправи
-- **Vocabulary expansion** - technical terms and translations / розширення словника - технічні терміни та переклади
-- **Exercise improvements** - better practice activities / покращення вправ - кращі практичні заходи
-- **Dataset additions** - relevant data for learning / додавання наборів даних - відповідні дані для навчання
+### 📚 Освітній контент / Educational Content
+- **Нові уроки** - додаткові теми та вправи / **New lessons** - additional topics and exercises
+- **Розширення словника** - технічні терміни та переклади / **Vocabulary expansion** - technical terms and translations
+- **Покращення вправ** - кращі практичні заходи / **Exercise improvements** - better practice activities
+- **Додавання наборів даних** - відповідні дані для навчання / **Dataset additions** - relevant data for learning
 
-### 🔧 Technical Improvements / Технічні покращення
-- **Code optimization** - better R code examples / оптимізація коду - кращі приклади R коду
-- **Documentation** - clearer instructions and guides / документація - чіткіші інструкції та посібники
-- **Bug fixes** - correction of errors / виправлення помилок - корекція помилок
-- **Feature enhancements** - new functionality / покращення функцій - нова функціональність
+### 🔧 Технічні покращення / Technical Improvements
+- **Оптимізація коду** - кращі приклади R коду / **Code optimization** - better R code examples
+- **Документація** - чіткіші інструкції та посібники / **Documentation** - clearer instructions and guides
+- **Виправлення помилок** - корекція помилок / **Bug fixes** - correction of errors
+- **Покращення функцій** - нова функціональність / **Feature enhancements** - new functionality
 
 ### 🌍 Translation and Localization / Переклад та локалізація
 - **Improved translations** - better Ukrainian translations / покращені переклади - кращі українські переклади
