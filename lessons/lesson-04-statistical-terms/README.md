@@ -1,15 +1,15 @@
-# Lesson 04: Statistical Terminology
-*Урок 04: Статистична термінологія*
+# Урок 04: Статистична термінологія
+*Lesson 04: Statistical Terminology*
 
-## Learning Objectives / Цілі навчання
+## Цілі навчання / Learning Objectives
 
-- Learn statistical terms in English / Вивчити статистичні терміни англійською
-- Calculate basic statistics / Обчислювати базову статистику
-- Practice mathematical vocabulary / Практикувати математичний словник
+- Вивчити статистичні терміни англійською / Learn statistical terms in English
+- Обчислювати базову статистику / Calculate basic statistics
+- Практикувати математичний словник / Practice mathematical vocabulary
 
-## Key Vocabulary / Ключовий словник
+## Ключовий словник / Key Vocabulary
 
-### Measures of Central Tendency / Міри центральної тенденції
+### Міри центральної тенденції / Measures of Central Tendency
 | English | Ukrainian | R Function | Pronunciation |
 |---------|-----------|------------|---------------|
 | mean | середнє значення | `mean()` | [miːn] |

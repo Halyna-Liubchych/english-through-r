@@ -1,15 +1,15 @@
-# Lesson 05: Data Import and File Operations
-*Урок 05: Імпорт даних та файлові операції*
+# Урок 05: Імпорт даних та файлові операції
+*Lesson 05: Data Import and File Operations*
 
-## Learning Objectives / Цілі навчання
+## Цілі навчання / Learning Objectives
 
-- Learn file operation vocabulary in English / Вивчити словник файлових операцій англійською
-- Import and export data / Імпортувати та експортувати дані
-- Practice file system terminology / Практикувати термінологію файлової системи
+- Вивчити словник файлових операцій англійською / Learn file operation vocabulary in English
+- Імпортувати та експортувати дані / Import and export data
+- Практикувати термінологію файлової системи / Practice file system terminology
 
-## Key Vocabulary / Ключовий словник
+## Ключовий словник / Key Vocabulary
 
-### File Operations / Файлові операції
+### Файлові операції / File Operations
 | English | Ukrainian | R Function | Pronunciation |
 |---------|-----------|------------|---------------|
 | file | файл | - | [faɪl] |

@@ -1,15 +1,15 @@
-# Lesson 03: Time and Date Expressions
-*Урок 03: Вирази часу та дати*
+# Урок 03: Вирази часу та дати
+*Lesson 03: Time and Date Expressions*
 
-## Learning Objectives / Цілі навчання
+## Цілі навчання / Learning Objectives
 
-- Learn time vocabulary in English / Вивчити словник часу англійською
-- Work with dates in R / Працювати з датами в R
-- Practice temporal expressions / Практикувати часові вирази
+- Вивчити словник часу англійською / Learn time vocabulary in English
+- Працювати з датами в R / Work with dates in R
+- Практикувати часові вирази / Practice temporal expressions
 
-## Key Vocabulary / Ключовий словник
+## Ключовий словник / Key Vocabulary
 
-### Time Units / Одиниці часу
+### Одиниці часу / Time Units
 | English | Ukrainian | Pronunciation |
 |---------|-----------|---------------|
 | date | дата | [deɪt] |
@@ -57,14 +57,14 @@
 - `lesson-03-time-dates.R` - Main lesson code / Основний код уроку
 - `README.md` - This lesson guide / Цей посібник уроку
 
-## Instructions / Інструкції
+## Інструкції / Instructions
 
-1. Run the code to see current date and time / Виконайте код, щоб побачити поточну дату та час
-2. Practice pronunciation of months and days / Практикуйте вимову місяців та днів
-3. Complete the TODO exercises / Виконайте завдання TODO
-4. Try creating different date calculations / Спробуйте різні обчислення з датами
+1. Виконайте код, щоб побачити поточну дату та час / Run the code to see current date and time
+2. Практикуйте вимову місяців та днів / Practice pronunciation of months and days
+3. Виконайте завдання TODO / Complete the TODO exercises
+4. Спробуйте різні обчислення з датами / Try creating different date calculations
 
-## Date Format Examples / Приклади форматів дат
+## Приклади форматів дат / Date Format Examples
 
 - "2024-01-15" - ISO format (recommended)
 - "January 15, 2024" - American format  

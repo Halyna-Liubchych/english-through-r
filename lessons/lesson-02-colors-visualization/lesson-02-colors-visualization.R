@@ -1,10 +1,10 @@
-# Lesson 02: Colors and Visualization Basics
 # Урок 02: Кольори та основи візуалізації
+# Lesson 02: Colors and Visualization Basics
 
-# Learning objectives / Цілі навчання:
-# - Learn color names in English / Вивчити назви кольорів англійською
-# - Create basic plots / Створювати основні графіки
-# - Practice visualization vocabulary / Практикувати словник візуалізації
+# Цілі навчання / Learning objectives:
+# - Вивчити назви кольорів англійською / Learn color names in English
+# - Створювати основні графіки / Create basic plots
+# - Практикувати словник візуалізації / Practice visualization vocabulary
 
 # ======= VOCABULARY / СЛОВНИК =======
 # color/colour - колір
@@ -17,18 +17,18 @@
 # purple - фіолетовий
 # orange - оранжевий
 
-# ======= COLOR BASICS / ОСНОВИ КОЛЬОРІВ =======
+# ======= ОСНОВИ КОЛЬОРІВ / COLOR BASICS =======
 
-# Basic colors vector / Вектор основних кольорів
+# Вектор основних кольорів / Basic colors vector
 basic_colors <- c("red", "blue", "green", "yellow", "purple", "orange")
 print(basic_colors)
 
-# Create some sample data / Створити зразкові дані
+# Створити зразкові дані / Create some sample data
 sample_numbers <- c(10, 15, 8, 20, 12, 18)
 
-# ======= SIMPLE PLOTS / ПРОСТІ ГРАФІКИ =======
+# ======= ПРОСТІ ГРАФІКИ / SIMPLE PLOTS =======
 
-# Bar plot with colors / Стовпчаста діаграма з кольорами
+# Стовпчаста діаграма з кольорами / Bar plot with colors
 barplot(sample_numbers, 
         names.arg = basic_colors,
         col = basic_colors,
