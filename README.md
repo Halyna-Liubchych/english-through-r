@@ -1,2 +1,2 @@
 # english-through-r
-🇺🇦 Learning English technical vocabulary through R programming
+🇺🇦 Вивчення англійської мови через вивчення мови програмування R
